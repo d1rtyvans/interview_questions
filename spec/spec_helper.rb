@@ -14,6 +14,7 @@
 #
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 require 'pry'
+require 'timecop'
 
 Dir['lib/**/*.rb'].each { |f| load f }
 
