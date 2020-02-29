@@ -1,0 +1,2 @@
+# Coding Challenges
+Interviews have their time limits... And some of the challenges you're expected to solve within those time limits can keep bothering you after you're done. Even when you do solve them, your interviewer might say: _"Sure, O(log n) is OK... but why cant you make it O(1)?"_ :fml: :you_cant:. Returning to these challenges on your own time from the comfort of your own test suite can be fun. Maybe even help you win back some self-esteem after a particularly constructive interview.
